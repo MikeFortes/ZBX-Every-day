@@ -92,7 +92,7 @@ Todo curso aqui listado, assim como os próprios tutoriais, links e etc... são 
 
 No link abaixo, vou anexar a pagina que vai conter um indice completo das postagens ja feitas e seus assuntos abordados.
 
-* [Index - Listagens]
+* [Index - Listagens](https://github.com/MikeFortes/ZBX-Every-day/tree/main/Listas/2022)
 
 <!-- 
 ### Prerequisites
