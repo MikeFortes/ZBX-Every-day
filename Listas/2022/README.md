@@ -18,7 +18,7 @@ Todo conhecimento do multi-verso Zabbix. Do projeto a produção, debug, criaç�
 
 ## Indice completo
 - [ 04/01/2022 - Monitorar partiçoes linux sem agente Zabbix ★★★☆☆](https://github.com/MikeFortes/ZBX-Every-day/blob/main/Listas/2022/04012022.md)
-
+- [ 05/01/2022 - Saltos duplos - Ping de um host remoto ★★★☆☆](https://github.com/MikeFortes/ZBX-Every-day/blob/main/Listas/2022/05012022.md)
 
 <br><br>
 
