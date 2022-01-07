@@ -5,7 +5,6 @@ Você pode identificar o nivel de conhecimento exigido para cada tutorial se bas
 
 * ★☆☆☆☆ Iniciante<br>
 Conhecimento a nivel de uso diario, não existe conhecimento em criação de itens/triggers e etc...<br>
-
 * ★★☆☆☆ Basico<br>
 Conhecimento para criação de itens/triggers e entendimento dos fluxos basicos de funcionamento do Zabbix<br>
 * ★★★☆☆ Intermediario<br>
@@ -17,6 +16,7 @@ Todo conhecimento do multi-verso Zabbix. Do projeto a produção, debug, criaç�
 
 
 ## Indice completo
+- [ 06/01/2022 - Triggers com horarios especificos ★★☆☆☆](https://github.com/MikeFortes/ZBX-Every-day/blob/main/Listas/2022/06012022.md)
 - [ 05/01/2022 - Saltos duplos - Ping de um host remoto ★★★☆☆](https://github.com/MikeFortes/ZBX-Every-day/blob/main/Listas/2022/05012022.md)
 - [ 04/01/2022 - Monitorar partiçoes linux sem agente Zabbix ★★★☆☆](https://github.com/MikeFortes/ZBX-Every-day/blob/main/Listas/2022/04012022.md)
 
