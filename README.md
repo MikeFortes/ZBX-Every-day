@@ -34,7 +34,7 @@
   <h3 align="center">ZBX-Every-day</h3>
 
   <p align="center">
-    Do iniciante ao avançado, todo dia algo novo sobre Zabbix.
+    Do iniciante ao avançado, (quase) todo dia algo novo sobre Zabbix.
 </p>
 
 
@@ -74,10 +74,10 @@ Sera comentado, visto que se trata de listas datadas
 <!-- 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 -->
-Todo dia um novo conteudo sobre Zabbix.
+(Quase) Todo dia um novo conteudo sobre Zabbix.
 <br>
 Sempre que posso, posto conteudos completos e extensos em meu [Medium](https://mromeiro-f.medium.com) porem queria ir alem.
- <br>Aqui vou postar, todos os dias, tutoriais, topicos, noticias, etc... sobre Zabbix e seus relacionados.
+ <br>Aqui vou postar, todos os dias (que puder), tutoriais, topicos, noticias, etc... sobre Zabbix e seus relacionados.
 .. <br>
 Estou sempre aberto a duvidas, que serão respondias, tanto por aqui ou pelas redes sociais. Dependendo da questão, posso responder criando uma nova postagem sobre o assunto!  <br> <br>
 
