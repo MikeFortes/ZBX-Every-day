@@ -16,6 +16,7 @@ Todo conhecimento do multi-verso Zabbix. Do projeto a produção, debug, criaç�
 
 
 ## Indice completo
+- [ 17/01/2022 - Comando egrep ★☆☆☆☆](https://github.com/MikeFortes/ZBX-Every-day/blob/main/Listas/2022/17012022.md)
 - [ 14/01/2022 - Templates Zabbix ★☆☆☆☆](https://github.com/MikeFortes/ZBX-Every-day/blob/main/Listas/2022/14012022.md)
 - [ 10/01/2022 - Alterar autenticação sem acesso  ★★★★☆](https://github.com/MikeFortes/ZBX-Every-day/blob/main/Listas/2022/10012022.md)
 - [ 06/01/2022 - Triggers com horarios especificos ★★☆☆☆](https://github.com/MikeFortes/ZBX-Every-day/blob/main/Listas/2022/06012022.md)
